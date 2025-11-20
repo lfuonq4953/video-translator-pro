@@ -37,7 +37,7 @@ Version 2.0 - Optimized Edition
 ### Bước 1: Clone/Download project
 
 ```bash
-git clone https://github.com/yourusername/video-translator-pro.git
+git clone https://github.com/lfuonq4953/video-translator-pro.git
 cd video-translator-pro
 ```
 
